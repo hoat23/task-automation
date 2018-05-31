@@ -1,5 +1,6 @@
 # Esta es una prueba beta de apertura, modificación y exportacióna a pdf.
 # http://pythonexcels.com/python-excel-mini-cookbook/
+# http://icodeguru.com/webserver/python-programming-on-win32/
 
 import win32com.client as win32
 import time
